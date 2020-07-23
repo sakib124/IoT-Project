@@ -1,0 +1,44 @@
+System is running..
+Vehicle is approaching.
+Number of collisions detected: 1
+System is closing...
+System is running..
+System is running..
+Number of collisions detected: 0
+System is closing...
+System is running..
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Number of collisions detected: 4
+System is closing...
+System is running..
+Number of collisions detected: 0
+System is closing...
+System is running..
+System is running..
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Number of collisions detected: 4
+System is closing...
+System is running..
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Number of collisions detected: 6
+System is closing...
+System is running..
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
+Vehicle is approaching.
